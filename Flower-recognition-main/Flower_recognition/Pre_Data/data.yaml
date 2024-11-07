@@ -1,0 +1,8 @@
+path: c:/Users/koylu/Desktop/Proje_W_Ali/Bitirme_Projesi/veri2
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 16
+names: ['champaka', 'chitrak', 'common lanthana', 'daisy', 'hibiscus', 'honeysuckle', 'indian mallow', 'jatropha', 'lily', 'malabar melastome', 'marigold', 'orchid', 'rose', 'shankupushpam', 'spider lily', 'sunflower']
+
